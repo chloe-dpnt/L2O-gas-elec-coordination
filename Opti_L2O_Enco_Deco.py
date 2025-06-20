@@ -7,7 +7,7 @@ from Plot_Results import (print_hourly_linepack, print_hourly_demand, print_pres
                         print_errors_table, print_flow_table)
 from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
-
+a = 1
 
 print("CHECK POINT : ** code initiation **")
 
